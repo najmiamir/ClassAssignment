@@ -1,6 +1,6 @@
 
 import readline from 'readline';
-import {Student} from './exercise2.mjs';
+import {Student} from './class.mjs';
 
 const rl = readline.createInterface({
 
